@@ -1,0 +1,452 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_discoveryapis_commons",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/_discoveryapis_commons-1.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "archive",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/archive-3.4.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/args-2.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "asn1lib",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/asn1lib-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/async-2.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "buffer",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/buffer-1.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/charcode-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/collection-1.18.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/convert-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/crypto-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "crypto_keys",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/crypto_keys-0.3.0+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dotenv",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/dotenv-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "email_validator",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/email_validator-2.1.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "executor",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/executor-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "expressions",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/expressions-0.2.5+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_admin",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/firebase_admin-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_dart",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/firebase_dart-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebaseapis",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/firebaseapis-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "gcloud",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/gcloud-0.8.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "googleapis",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/googleapis-9.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "googleapis_auth",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/googleapis_auth-1.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "hive",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/hive-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/http-0.13.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/image-4.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/intl-0.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "jose",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/jose-0.3.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/lints-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/logging-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/matcher-0.12.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/meta-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mustache_template",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/mustache_template-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "openid_client",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/openid_client-0.4.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/petitparser-6.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/pointycastle-3.7.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "pool",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/pool-1.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "postgres",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/postgres-2.6.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "postgres_pool",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/postgres_pool-2.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/quiver-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "redis",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/redis-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "retry",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/retry-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/rxdart-0.27.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sasl_scram",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/sasl_scram-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "saslprep",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/saslprep-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "serverpod",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/serverpod-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "serverpod_auth_server",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/serverpod_auth_server-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "serverpod_client",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/serverpod_client-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "serverpod_serialization",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/serverpod_serialization-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "serverpod_service_client",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/serverpod_service_client-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "serverpod_shared",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/serverpod_shared-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "sortedmap",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/sortedmap-0.5.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/source_span-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/stack_trace-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/stream_channel-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "super_string",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/super_string-1.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/synchronized-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "system_resources",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/system_resources-1.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/test_api-0.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "unorm_dart",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/unorm_dart-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/uuid-3.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vm_service",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/vm_service-11.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "web_socket_channel",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/web_socket_channel-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "x509",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/x509-0.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/xml-6.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///home/akdir/.pub-cache/hosted/pub.dev/yaml-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "sjeap_server",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generated": "2023-11-27T10:05:37.385696Z",
+  "generator": "pub",
+  "generatorVersion": "3.2.0"
+}
